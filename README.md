@@ -14,7 +14,7 @@ pip3 install telethon
 python3 Telegram-sp.py
 
 # Photo 
-![alt](image.jpg)
+![alt](screen.jpg)
 # Note
 
 Before use ‌tool going my.telegram.org and copy api_id and api_hash
