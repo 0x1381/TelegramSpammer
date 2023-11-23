@@ -2,7 +2,7 @@
 
 # Use :
 
-git clone https://github.com/afshinataei/Telegram-spammer
+git clone https://github.com/0x1381/Telegram-spammer
 
 
 cd Telegram-spammer
