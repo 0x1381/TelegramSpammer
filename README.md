@@ -22,4 +22,4 @@ Afte edit file source and put your api_id and api_hash in file
 
 # Contact us
 
-Telegram : IR_localhost
+Telegram : ZEROX1381
